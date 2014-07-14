@@ -7,4 +7,5 @@ Goals for today:
 3)Login/SignUp page shows up
 
 Bonus work:
+-Do some Parse Reading at this URL: https://parse.com/docs/ios_guide#top/iOS
 -Ideas for the UI, including names/types of controllers, bring a visual with everything planned out
